@@ -19,7 +19,8 @@
 
 
 # 백엔드 아키텍처 구성도
-![copro (1)](https://github.com/user-attachments/assets/60ee317e-b70c-482b-8b5d-198546991708)
+![copro drawio](https://github.com/user-attachments/assets/ef501846-04fd-411c-834f-0a1822066077)
+
 
 # 기술스택
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
